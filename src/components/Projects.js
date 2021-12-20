@@ -11,12 +11,11 @@ const Projects = () => {
         <div className="flex flex-col w-full mb-20">
           <CodeIcon className="mx-auto inline-block w-10 mb-4" />
           <h1 className="sm:text-4xl text-3xl font-medium title-font mb-4 text-white">
-            Apps I've Built
+            Apps I've Built and worked on.
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo
-            facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam
-            fuga dolore.
+            I had the chance to work on couple of projects. These were mainly React/React Native apps
+             or Scala with Play Framework.
           </p>
         </div>
         <div className="flex flex-wrap -m-4">

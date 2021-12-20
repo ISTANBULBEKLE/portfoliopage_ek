@@ -14,9 +14,12 @@ const Skills = () => {
             Skills &amp; Technologies
           </h1>
           <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi sit
-            ipsa delectus eum quo voluptas aspernatur accusantium distinctio
-            possimus est.
+          I have a strong background and skill-set in programming, project management, business analysis, 
+          team building and team management. I have a proven track record of analytical and problem-solving skills 
+          with robust communication and collaborative working. I have worked on high-volume real-world React Native mobile apps. 
+          I have experience especially in React/React Native with frontend and backend capabilities and Scala/Scala Play framework. 
+          I am advancing his coding and programming skills in modern web development and software development frameworks and tools. 
+          I aim to build-up advance software use cases as a software engineer.
           </p>
         </div>
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
